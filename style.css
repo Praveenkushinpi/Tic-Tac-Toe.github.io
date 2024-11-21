@@ -5,8 +5,8 @@
         }
 
         nav{
-            background-color: rgb(37, 9, 37);
-                color: white;
+            background-color: rgb(129, 143, 245);
+                color: rgb(169, 0, 253);
                     height: 65px;
                         font-size: 27px;
                             display: flex;
@@ -34,7 +34,7 @@
                                                                             }
 
                                                                             .box{
-                                                                                border: 2px solid black;
+                                                                                border: 2px solid rgb(159, 243, 251);
                                                                                     font-size: 8vw;
                                                                                         cursor: pointer;
                                                                                             display: flex;
